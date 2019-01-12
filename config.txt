@@ -1,6 +1,6 @@
-﻿token=NTE1MjI5NzQzMTM0ODAxOTIx.DtnPKA.WzdOH7yJA92UU-0f8Uosx0c5bYg
-owner=469102784789348362
-prefix= 1
-game= 1help
+﻿token=NTMzNTUxNDkyMTQyMjAyOTAw.Dxsshw.s6_1q7Un8IRTLtM8IsBYFVwqvRo
+owner=484869429327560704
+prefix=3
+game=3help
 stayinchannel=true
 songinstatus=true 
